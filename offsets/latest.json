@@ -1,0 +1,61 @@
+{
+  "version": "2026-09-03",
+  "game": "CS2",
+  "source": "https://github.com/a2x/cs2-dumper",
+  "updated_by": "auto-updater",
+  
+  "client_dll": {
+    "dwLocalPlayerPawn": "0x23C6268",
+    "dwLocalPlayerController": "0x23A0F30",
+    "dwEntityList": "0x2571220",
+    "dwViewMatrix": "0x23CB830",
+    "dwViewAngles": "0x23DC2F8",
+    "dwPlantedC4": "0x2390A18",
+    "dwGlobalVars": "0x20AF5F0",
+    "dwForceAttack": "0x20B38F0",
+    "dwForceAttack2": "0x20B3980",
+    "dwForceJump": "0x20B3E00"
+  },
+  
+  "entity": {
+    "m_pGameSceneNode": "0x330",
+    "m_lifeState": "0x354",
+    "m_iHealth": "0x34C",
+    "m_iTeamNum": "0x3E7",
+    "m_fFlags": "0x3F4",
+    "m_vecAbsVelocity": "0x3F8",
+    "m_vecViewOffset": "0xE78",
+    "m_vOldOrigin": "0x13B8",
+    "m_pWeaponServices": "0x1208",
+    "m_hActiveWeapon": "0x60",
+    "m_bDormant": "0x103",
+    "m_modelState": "0x140"
+  },
+  
+  "player": {
+    "m_hPawn": "0x6BC",
+    "m_iszPlayerName": "0x6F4",
+    "m_iShotsFired": "0x1C8C",
+    "m_entitySpottedState": "0x1C60",
+    "m_iIDEntIndex": "0x342C",
+    "m_bIsScoped": "0x1C78",
+    "m_pAimPunchServices": "0x14B8",
+    "m_AimPunchAngle": "0x50",
+    "m_flFlashDuration": "0x1428",
+    "m_vecCsViewPunchAngle": "0x48"
+  },
+  
+  "weapon": {
+    "m_AttributeManager": "0x11A8",
+    "m_Item": "0x50",
+    "m_iItemDefinitionIndex": "0x1BA"
+  },
+  
+  "bomb": {
+    "m_nBombSite": "0x11A4",
+    "m_bBombDefused": "0x11F4",
+    "m_flDefuseCountDown": "0x11F0",
+    "m_flC4Blow": "0x11D0",
+    "m_bBeingDefused": "0x11DC"
+  }
+}
