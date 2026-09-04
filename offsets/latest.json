@@ -5,7 +5,7 @@
   "updated_by": "auto-updater",
   
   "client_dll": {
-    "dwLocalPlayerPawn": "0x9999",
+    "dwLocalPlayerPawn": "0x23C6268",
     "dwLocalPlayerController": "0x23A0F30",
     "dwEntityList": "0x2571220",
     "dwViewMatrix": "0x23CB830",
