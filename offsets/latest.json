@@ -3,7 +3,7 @@
   "game": "CS2",
   "source": "https://github.com/a2x/cs2-dumper",
   "updated_by": "auto-updater",
-  
+
   "client_dll": {
     "dwLocalPlayerPawn": "0x23C6268",
     "dwLocalPlayerController": "0x23A0F30",
@@ -16,7 +16,7 @@
     "dwForceAttack2": "0x20B3980",
     "dwForceJump": "0x20B3E00"
   },
-  
+
   "entity": {
     "m_pGameSceneNode": "0x330",
     "m_lifeState": "0x354",
@@ -31,7 +31,7 @@
     "m_bDormant": "0x103",
     "m_modelState": "0x140"
   },
-  
+
   "player": {
     "m_hPawn": "0x6BC",
     "m_iszPlayerName": "0x6F4",
@@ -44,13 +44,13 @@
     "m_flFlashDuration": "0x1428",
     "m_vecCsViewPunchAngle": "0x48"
   },
-  
+
   "weapon": {
     "m_AttributeManager": "0x11A8",
     "m_Item": "0x50",
     "m_iItemDefinitionIndex": "0x1BA"
   },
-  
+
   "bomb": {
     "m_nBombSite": "0x11A4",
     "m_bBombDefused": "0x11F4",
