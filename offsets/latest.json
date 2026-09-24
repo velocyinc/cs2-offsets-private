@@ -1,19 +1,19 @@
 {
-  "version": "2026-09-22",
+  "version": "2026-09-24",
   "game": "CS2",
   "source": "https://github.com/a2x/cs2-dumper",
   "updated_by": "manual-dump",
   "client_dll": {
-    "dwLocalPlayerPawn": "0x255B598",
-    "dwLocalPlayerController": "0x25324D8",
-    "dwEntityList": "0x2710038",
-    "dwViewMatrix": "0x25608E0",
-    "dwViewAngles": "0x2571108",
-    "dwPlantedC4": "0x24C3D28",
-    "dwGlobalVars": "0x2226F08",
-    "dwForceAttack": "0x0",
-    "dwForceAttack2": "0x0",
-    "dwForceJump": "0x0"
+    "dwLocalPlayerPawn": "0x255E658",
+    "dwLocalPlayerController": "0x2535598",
+    "dwEntityList": "0x27130E8",
+    "dwViewMatrix": "0x25639A0",
+    "dwViewAngles": "0x25741C8",
+    "dwPlantedC4": "0x24C7380",
+    "dwGlobalVars": "0x2229F88",
+    "dwForceAttack": "0x222E0C0",
+    "dwForceAttack2": "0x222E150",
+    "dwForceJump": "0x222E5D0"
   },
   "entity": {
     "m_pGameSceneNode": "0x330",
