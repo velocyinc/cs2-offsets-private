@@ -1,12 +1,12 @@
 {
-  "version": "2026-09-25",
+  "version": "2026-09-28",
   "game": "CS2",
   "source": "https://github.com/a2x/cs2-dumper",
   "updated_by": "manual-dump",
   "client_dll": {
     "dwLocalPlayerPawn": "0x25606D8",
     "dwLocalPlayerController": "0x2537628",
-    "dwEntityList": "0x27151A8",
+    "dwEntityList": "0x27151E8",
     "dwViewMatrix": "0x2565A20",
     "dwViewAngles": "0x2576238",
     "dwPlantedC4": "0x24C9290",
